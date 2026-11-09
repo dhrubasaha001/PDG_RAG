@@ -19,6 +19,9 @@ Upload (API)  →  Redis Queue  →  Celery Worker
                           Query API → Hybrid Search → LLM → Answer
 ```
 
+### Ingestion Pipeline
+<img width="2136" height="4332" alt="PDF RAG" src="https://github.com/user-attachments/assets/8cfb3d89-10b0-4e8a-b43b-006bc3e66095" />
+
 **Stack:**
 | Layer | Technology |
 |---|---|
